@@ -1,7 +1,7 @@
 # CypressWebAutomation
 Cypress Automation Project to Automate Web Application using POM Pattern.
 
-In this Trying to automate the Add To Do List Application Test Scenarios.
+In this Trying to automate "Add To Do List Application" Test Scenarios.
 
 To get started with the automation, below are the steps:
 
