@@ -7,14 +7,14 @@ To run cypress automation spec file, below are the steps:-
 
 Pre-requisites:-
 
-Node.js should be installed in the system and configured environment variables for that.
-VS Code or other such kind of IDE should be installed.
+1) Node.js should be installed in the system and configured environment variables for that.
+2) VS Code or other such kind of IDE should be installed.
 
 Steps to install Cypress:-
 
-Clone this repository to your local machine.
-Open the project in VS Code.
-Open the terminal of VS code and install cypress by running (npm install cypress --save -dev)
+1) Clone this repository to your local machine.
+2) Open the project in VS Code.
+3) Open the terminal of VS code and install cypress by running (npm install cypress --save -dev)
 
 To run the script following are the ways in cypress:- 
 
