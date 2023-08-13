@@ -1,0 +1,10 @@
+{
+  "name": "Sunny",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "addTask" : "Add Task on 12 August For Testing Cypress To Do Application",
+  "editTask" :"edit the task after adding",
+  "url" : "https://javascript-todo-app.vercel.app/",
+  "bigTaskDetails" : "Adding tasks is important because it helps you stay organized, on track, and productive. It can help you set priorities, track your progress, avoid overwhelm, delegate tasks, and communicate with others. When you have a list of tasks to complete, you are less likely to forget about things or to procrastinate. You can also break down large tasks into smaller, more manageable chunks, which can make them seem less daunting. By adding tasks to a list, you can also communicate with others about what needs to be done, which can help to avoid confusion and ensure that everyone is on the same page."
+  
+}
