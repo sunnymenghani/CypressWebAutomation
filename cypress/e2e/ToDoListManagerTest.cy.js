@@ -151,9 +151,9 @@ describe("To Do List Manager Test Suite", ()=> {
     })
 
     /*
-      This it block will add the big task
+      This it block will add the big task and delete it
     */
-      it('Add Big Task' , ()=>{
+      it('Add Big Task and delete' , ()=>{
         cy.fixture('example').then((fixtureData)=>{
           //Below line of code will add New Task
           page.enterToDoList(fixtureData.bigTaskDetails);
