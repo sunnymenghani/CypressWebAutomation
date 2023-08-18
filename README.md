@@ -19,10 +19,13 @@ Steps to install Cypress:-
 To run the script following are the ways in cypress:- 
 
 enter any of the below commands in vs code terminal
-1) npx cypress run
+1) npx cypress open
 
    (Select E2E option ->Select browser -> Select Spec File under "E2E Specs")
-2) npx cypress run --headed --browser chrome --spec "cypress\e2e\ToDoListManagerTest.cy.js"
+
+2) npx cypress run (This will run headless mode)
+   
+3) npx cypress run --headed --browser chrome --spec "cypress\e2e\ToDoListManagerTest.cy.js"
 
     (this will run on chrome browser headed mode)
 
